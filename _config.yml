@@ -21,7 +21,7 @@
 title: PK's blog
 description: >- # this means to ignore newlines until "baseurl:"
   PK's blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://prashantkamdar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 7thking
 github_username:  prashantkamdar
