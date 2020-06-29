@@ -17,8 +17,23 @@ Gather the components
 
 ![components]({{site.baseurl}}/assets/images/attiny85-arcade/01.components.JPG)
 
-
 Step 2:
 Have the necessary tools around
 
-![components]({{site.baseurl}}/assets/images/attiny85-arcade/02.required_tools.jpg)
+![tools]({{site.baseurl}}/assets/images/attiny85-arcade/02.required_tools.jpg)
+
+Step 3:
+Write the code
+
+For this, I used an existing repo and made the changes as required.
+
+![code]({{site.baseurl}}/assets/images/attiny85-arcade/03.coding_in_arduino.jpg)
+
+Step 4:
+Program the ATTiny85
+
+There is no direct way to "upload" the code to the chip.
+
+Hence, this is done via Arduino UNO board.
+
+![upload_code]({{site.baseurl}}/assets/images/attiny85-arcade/04.programming_attiny85_via_arduino_uno.jpg)
