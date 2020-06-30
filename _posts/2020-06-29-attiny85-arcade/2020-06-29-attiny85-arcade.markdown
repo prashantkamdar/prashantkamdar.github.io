@@ -105,7 +105,7 @@ Install the battery**
 **Step 11:
 Enjoy!**
 
-<video controls poster="/assets/images/attiny85-arcade/attiny85-poster.jpg">
+<video width="768" height="512" controls poster="/assets/images/attiny85-arcade/attiny85-poster.jpg">
   <source src="/assets/images/attiny85-arcade/demo.mp4" type="video/mp4">
     Your browser does not support HTML video.
 </video>
