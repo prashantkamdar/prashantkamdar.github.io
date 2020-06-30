@@ -4,6 +4,10 @@ title:  "ATTiny85 Arcade"
 date:   2020-06-29 13:29:00 +0530
 #categories: attiny85 maker
 ---
+
+![attiny85_game_console]({{site.baseurl}}/assets/images/attiny85-arcade/00.final.jpg)
+
+<br><br>
 A small, teeny-tiny console to play simple games using a microcontroller chip.
 
 The ATTiny85 chip is small but powerful enough for this purpose.
@@ -101,11 +105,12 @@ Install the battery**
 **Step 11:
 Enjoy!**
 
-<video autoplay="autoplay" loop="loop" width="768" height="512">
+<video controls width="768" height="512">
   <source src="/assets/images/attiny85-arcade/demo.mp4" type="video/mp4">
+    Your browser does not support HTML video.
 </video>
 
-
+<br><br>
 References:
 
 <https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829>
