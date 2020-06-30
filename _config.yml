@@ -26,6 +26,9 @@ url: "http://prashantkamdar.com" # the base hostname & protocol for your site, e
 twitter_username: 7thking
 github_username:  prashantkamdar
 
+prod-analytics-id: UA-238155066-Y
+dev-analytics-id:   UA-238155066-Y
+
 # Build settings
 theme: minima
 
