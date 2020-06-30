@@ -15,7 +15,7 @@ While this might not seem like a lot, it is plenty of juice to run simple progra
 Step 1:
 Gather the components
 
-![components]({{site.baseurl}}/assets/images/attiny85-arcade/01.components.JPG)
+![components]({{site.baseurl}}/assets/images/attiny85-arcade/01.components.jpg)
 
 Step 2:
 Have the necessary tools around
