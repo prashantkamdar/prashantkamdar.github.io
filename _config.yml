@@ -28,6 +28,7 @@ github_username:  prashantkamdar
 
 prod-analytics-id: UA-238155066-Y
 dev-analytics-id:   UA-238155066-Y
+analytics-id:   UA-238155066-Y
 
 # Build settings
 theme: minima
